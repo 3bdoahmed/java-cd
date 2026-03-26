@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: java
-        image: abdelrahman678/java-app:latest
+        image: abdelrahman678/java-app:v3
         ports:
         - containerPort: 8090
